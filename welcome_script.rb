@@ -10,7 +10,7 @@ name3 = gets.chomp
 puts 'Your full name is ' + name1 + ' ' + name2 + ' ' + name3 + '?'
 name4 = gets.chomp
 
-if name4 == 'yes'
+if name4.downcase == 'yes'
   puts 'Welcome, ' + name1 + ' ' + name2 + ' ' + name3 + '!'
 else
   puts 'sorry, please try again.'
