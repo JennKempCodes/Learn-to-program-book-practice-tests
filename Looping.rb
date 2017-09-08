@@ -9,3 +9,5 @@ while true
 end
 
 puts 'UH OH SPAGHETTIO'
+
+# input1 can be named anything at all
