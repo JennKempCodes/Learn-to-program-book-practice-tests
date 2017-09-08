@@ -8,4 +8,4 @@ while true
   end
 end
 
-puts "UH OH SPAGHETTIO"
+puts 'UH OH SPAGHETTIO'
