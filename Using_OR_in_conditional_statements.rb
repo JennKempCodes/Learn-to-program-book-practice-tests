@@ -1,7 +1,7 @@
-puts 'Bonjour!, comment vouz appelez-vous?'
+puts 'Hello, what\'s your name?'
 response = gets.chomp
-puts 'Bonjour ' + response
+puts 'Hello, ' + response
 
 if response == 'Jean' || response == 'Pierre'
-  puts 'c\'est tres belle, votre nom'
+  puts 'That\'s a lovely name'
 end
