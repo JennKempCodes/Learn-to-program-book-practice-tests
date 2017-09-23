@@ -12,7 +12,7 @@ def favorite_food (name)
 
   def favorite_drink name
     if name == 'Jean'
-      'Earl-Gray'
+      'Earl-Gray '
     elsif name == 'Kathryn'
       'Coffee, on the rocks'
     else
