@@ -10,13 +10,15 @@ def favorite_food (name)
     'Oh Idk..maybe Saurkraut'
   end
 
+  puts 'isn\'t this fun'
+
   def favorite_drink name
     if name == 'Jean'
       'Earl-Gray '
     elsif name == 'Kathryn'
       'Coffee, on the rocks'
     else
-      'ummm perhaps pina colada'
+      'ummm perhaps, a Pina Colada'
     end
   end
 
@@ -26,4 +28,3 @@ def favorite_food (name)
   puts favorite_drink('Jean')
   puts favorite_drink('Kathryn')
   puts favorite_drink('Jerry')
-
