@@ -10,7 +10,7 @@ def favorite_food (name)
     'Oh Idk..maybe Saurkraut'
   end
 
-  puts 'isn\'t this fun'
+  puts 'isn\'t this fun!!!'
 
   def favorite_drink name
     if name == 'Jean'
